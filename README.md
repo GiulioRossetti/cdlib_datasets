@@ -1,6 +1,10 @@
 # CDlib datasets
+<img src="https://cdlib.readthedocs.io/en/latest/_static/cdlib_new.png" alt="CDlib logo" width="100" />
+
 
 Remote repository of public domain network datasets (along with their ground truth clustering) for the [CDlib](https://github.com/GiulioRossetti/cdlib) libray.
+
+For instructions on how to load the data within CDlib refer to the official [documentation](https://cdlib.readthedocs.io/en/latest/reference/datasets.html)
 
 ## Available datasets
 
