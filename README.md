@@ -8,7 +8,7 @@ For instructions on how to load the data within CDlib refer to the official [doc
 
 ## Available datasets
 
-Here a list of the available network datasets, both from real and synthetically generated
+Here the list of available network datasets - both real and synthetically generated.
 
 ### Real world 
 
